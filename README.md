@@ -1,6 +1,6 @@
-# Cheema Dev Portfolio
+# Cheema DevOps Portfolio
 
-Public GitHub Pages site for the Cheema Dev portfolio.
+Public GitHub Pages site for the Cheema DevOps portfolio.
 
 The portfolio files live in `portfolio/public`. A GitHub Actions workflow builds the static site and deploys it to GitHub Pages when these files change.
 
