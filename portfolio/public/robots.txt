@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faisalriazcheema.github.io/cheema-dev-portfolio/sitemap.xml
